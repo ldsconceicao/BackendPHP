@@ -1,3 +1,21 @@
+Este fork é uma implementação do desafio proposto no repositório original.
+Foram criadas as classes:
+
+Conta: Contém os métodos utilizados por todos os tipos de conta.
+ContaCorrente:  Contém como constantes as taxas ligadas a Contas Correntes,
+                herdeira da classe Conta.
+
+ContaPoupanca:  Contém como constantes as taxas ligadas a contas Poupança,
+                herdeira da classe Conta.
+
+E classes de teste para as duas classes herdeiras.
+O método para executar os testes continua o mesmo.
+Além das limitações descritas no texto original, também foram implementadas
+limitações que impedem valores negativos como entrada pra Saques, Depósitos e
+Transferências, e não são permitidas Transferências de e para a mesma conta.
+
+Texto original abaixo:
+
 # Backend PHP <img src="http://www.reweb.com.br/assets/frontend/img/logo_new.png" width="50">
 
 ### Desafio
