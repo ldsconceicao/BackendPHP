@@ -4,10 +4,10 @@ Foram criadas as classes:
 
 <b>Conta</b>: Contém os métodos utilizados por todos os tipos de conta.
 
-<b>ContaCorrente</b>:  Contém como constantes as taxas ligadas a Contas Correntes,
+<b>ContaCorrente</b>:  Contém como constantes as taxas ligadas a contas correntes,
                 herdeira da classe Conta.
 
-<b>ContaPoupanca</b>:  Contém como constantes as taxas ligadas a contas Poupança,
+<b>ContaPoupanca</b>:  Contém como constantes as taxas ligadas a contas poupança,
                 herdeira da classe Conta.
 
 E classes de teste para as duas classes herdeiras.
