@@ -1,12 +1,13 @@
 Este fork é uma implementação do desafio proposto no repositório original.
+
 Foram criadas as classes:
 
-Conta: Contém os métodos utilizados por todos os tipos de conta.
+<b>Conta</b>: Contém os métodos utilizados por todos os tipos de conta.
 
-ContaCorrente:  Contém como constantes as taxas ligadas a Contas Correntes,
+<b>ContaCorrente</b>:  Contém como constantes as taxas ligadas a Contas Correntes,
                 herdeira da classe Conta.
 
-ContaPoupanca:  Contém como constantes as taxas ligadas a contas Poupança,
+<b>ContaPoupanca</b>:  Contém como constantes as taxas ligadas a contas Poupança,
                 herdeira da classe Conta.
 
 E classes de teste para as duas classes herdeiras.
